@@ -7,9 +7,12 @@ draft = "false"
 title = "About me"
 meta_title = ""
 meta_description = ""
-slug = "about"
-aliases = [ "/about/" ]
 author = "sebst"
+
+url = "/about/"
+
+comments = false
+share = false
 
 +++
 
@@ -27,7 +30,7 @@ I hold a degree from the Aachen University of Applied Sciences in Scientific Pro
 * May, 2014: [Team captain at HackForHealth](/neurofeedback-for-adhd-treatment/)
 
 #### Fun Facts
-(in no particular order) 
+(in no particular order)
 
 * I started my first business at the age of 16
 * I switched from PC to Mac, from Mac to PC, and, again, from PC to Mac

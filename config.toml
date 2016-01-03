@@ -1,13 +1,17 @@
-baseurl = "http://seb.st/"
+theme = "casper-fork"
+baseurl = "https://seb.st/"
 languageCode = "en-us"
 title = "seb.st"
-theme = "casper"
 Copyright = "All rights reserved - 2016"
 uglyURLs = true
 disablePathToLower = true
 canonifyurls = true
+paginate = 5
+
 
 [params]
   description = "Thoughts, stories and ideas. By Sebastian Steins."
   author = "Sebastian Steins"
   hideHUGOSupport = false
+  RSSLink = "index.xml" # workaround for bug https://github.com/spf13/hugo/issues/175
+  googleAnalyticsUserID = "UA-437457-19"

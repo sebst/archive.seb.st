@@ -7,15 +7,18 @@ draft = "false"
 title = "You found something?"
 meta_title = ""
 meta_description = ""
-slug = "lostphone"
-aliases = [ "/lostphone/" ]
 author = "sebst"
+
+url = "/lostphone/"
+
+comments = false
+share = false
 
 +++
 
-**Hi stranger!** You found something with this web address on it? Odds, are, that's mine! 
+**Hi stranger!** You found something with this web address on it? Odds, are, that's mine!
 
-Of course, I want it back. And I will give you a reward! 
+Of course, I want it back. And I will give you a reward!
 
 Please send me an email to [sebastian.steins@gmail.com](mailto:sebastian.steins@gmail.com?subject=I found your thing)!
 

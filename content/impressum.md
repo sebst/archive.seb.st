@@ -7,21 +7,23 @@ draft = "false"
 title = "Impressum"
 meta_title = ""
 meta_description = ""
-slug = "impressum"
-aliases = [ "/impressum/" ]
 author = "sebst"
+
+url = "/impressum/"
+
+comments = false
+share = false
 
 +++
 
 This private blog is edited by
 
-Sebastian A. Steins
-Postfach 1505
-Haaler Str. 64
-52146 Würselen
+Sebastian A. Steins  
+Postfach 1505  
+Haaler Str. 64  
+52146 Würselen  
 
 USt-ID-Nr.: DE 231 155 520
 
-0170-9440049
+0170-9440049  
 sebastian.steins@gmail.com
-
