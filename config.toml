@@ -1,0 +1,13 @@
+baseurl = "http://seb.st/"
+languageCode = "en-us"
+title = "seb.st"
+theme = "casper"
+Copyright = "All rights reserved - 2016"
+uglyURLs = true
+disablePathToLower = true
+canonifyurls = true
+
+[params]
+  description = "Thoughts, stories and ideas. By Sebastian Steins."
+  author = "Sebastian Steins"
+  hideHUGOSupport = false
