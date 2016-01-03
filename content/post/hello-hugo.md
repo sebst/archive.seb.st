@@ -46,3 +46,4 @@ If you want to move to a static site generator, you might find useful:
 - [Blogging via iPhone](http://evanbrown.io/post/hugo-on-the-go/) - the dependency on static files on my laptop first prevented  me from considering static site generators an option, but does not anymore. Git, Travis and a loosely coupled toolset changed my mind.
 - [Ghost to Hugo](http://caveconfessions.com/ghost-to-hugo/) - Converting your ghost installation to Hugo. Also have a look at [Migration](https://gohugo.io/tools/) section in the Hugo docs.
 - [Rango](https://github.com/stayradiated/rango) - if you cannot live without a web interface.
+- [This site's github repo](https://github.com/sebst/seb.st) – if you are interested in this site's organization and configuration
