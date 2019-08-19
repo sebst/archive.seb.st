@@ -1,5 +1,5 @@
 theme = "casper-fork"
-baseurl = "//seb.st/"
+baseurl = "//archive.seb.st/"
 languageCode = "en-us"
 title = "seb.st"
 Copyright = "All rights reserved - 2016"
