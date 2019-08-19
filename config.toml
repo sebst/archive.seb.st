@@ -5,9 +5,9 @@ title = "[ARCHIVED BLOG] seb.st"
 Copyright = "© 2016 -2019 All rights reserved."
 uglyurls = true
 disablePathToLower = true
-canonifyurls = true
+canonifyurls = false
 paginate = 5
-relativeURLs = false
+
 
 
 [params]
