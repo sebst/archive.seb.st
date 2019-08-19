@@ -17,4 +17,4 @@ paginate = 5
   googleAnalyticsUserID = "UA-437457-19"
 
   [permalinks]
-      post = "/blog/:filename.html"
+      posts = "/blog/:filename"
