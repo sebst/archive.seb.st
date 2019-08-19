@@ -14,7 +14,7 @@ relativeURLs = false
   description = "[ARCHIVED BLOG] Thoughts, stories and ideas. By Sebastian Steins."
   author = "Sebastian Steins"
   hideHUGOSupport = false
-  RSSLink = "index.xml" # workaround for bug https://github.com/spf13/hugo/issues/175
+  RSSLink = "/index.xml" # workaround for bug https://github.com/spf13/hugo/issues/175
   googleAnalyticsUserID = "UA-437457-19"
 
   [permalinks]
