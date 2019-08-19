@@ -1,8 +1,8 @@
 theme = "casper-fork"
-baseurl = "//seb.st/"
+baseurl = "https://archive.seb.st/"
 languageCode = "en-us"
-title = "seb.st"
-Copyright = "All rights reserved - 2016"
+title = "[ARCHIVED BLOG] seb.st"
+Copyright = "© 2016 -2019 All rights reserved."
 uglyURLs = true
 disablePathToLower = true
 canonifyurls = true
@@ -10,7 +10,7 @@ paginate = 5
 
 
 [params]
-  description = "Thoughts, stories and ideas. By Sebastian Steins."
+  description = "[ARCHIVED BLOG] Thoughts, stories and ideas. By Sebastian Steins."
   author = "Sebastian Steins"
   hideHUGOSupport = false
   RSSLink = "index.xml" # workaround for bug https://github.com/spf13/hugo/issues/175
