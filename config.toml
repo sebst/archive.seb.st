@@ -18,4 +18,4 @@ relativeURLs = false
   googleAnalyticsUserID = "UA-437457-19"
 
   [permalinks]
-      post = "/blog/:filename.html"
+      post = "/blog/:filename"
