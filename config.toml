@@ -16,5 +16,4 @@ paginate = 5
   RSSLink = "index.xml" # workaround for bug https://github.com/spf13/hugo/issues/175
   googleAnalyticsUserID = "UA-437457-19"
 
-  [permalinks]
-      post = "/blog/:filename"
+
