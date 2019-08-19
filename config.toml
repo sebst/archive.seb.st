@@ -3,10 +3,11 @@ baseurl = "https://archive.seb.st/"
 languageCode = "en-us"
 title = "[ARCHIVED BLOG] seb.st"
 Copyright = "© 2016 -2019 All rights reserved."
-uglyURLs = true
+uglyurls = true
 disablePathToLower = true
 canonifyurls = false
 paginate = 5
+relativeURLs = true
 
 
 [params]
@@ -17,4 +18,4 @@ paginate = 5
   googleAnalyticsUserID = "UA-437457-19"
 
   [permalinks]
-      posts = "/blog/:filename"
+      post = "/blog/:filename"
