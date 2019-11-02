@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/sebst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://seb.st
+  * I am sebst (https://keybase.io/sebst) on keybase.
+  * I have a public key with fingerprint 2CF8 5F38 2E48 E8A9 B355  0304 5E96 86F5 2287 7716
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a7cb7f7f7041f6053adc6e36d04ac841a45bb9a4636564beff2883de264deb210a",
+            "fingerprint": "2cf85f382e48e8a9b35503045e9686f522877716",
+            "host": "keybase.io",
+            "key_id": "5e9686f522877716",
+            "kid": "0101a7cb7f7f7041f6053adc6e36d04ac841a45bb9a4636564beff2883de264deb210a",
+            "uid": "3faa97886436e1e4b3566c2f4123b519",
+            "username": "sebst"
+        },
+        "service": {
+            "hostname": "seb.st",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454270787,
+    "expire_in": 157680000,
+    "prev": "33ed56c85121f4badef3ba10d558d5d9b51d7a9cf2d63d0a360b00f00ab12f35",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+owGtUm1QVFUYhl1gBCT5UBcSLe7QRLbt3K9z7911I9OCIJKYETBZ27kf5y43ZHfd
+u4CE60fOspQOEDOKSJP4ETONEUlMQiKQQQSrhigIo42T4AdUpOOA9gXdy9T0p5+d
+8+Oc877P857neeetjtAGaALfPFg+g/hKlgf6J7mAnE+ll8sQziGUIqYypAAuHHCr
+AGW3tUASEBOCYijG0jxHi8pGSUykUECwAk9BghJQkuUZEmNJwHFGlqQIClAkB0UR
+ZxhCgDhFCpDDMZRF9Igo2W3Q5XRJdrdSFudFBogEg0OSgQxr5AgAUAIlATRSDCUC
+HGdomsYohZjvkFWGIo5jZWiQHEpMeVgX5P0H/n/WXbRQjhBZ1kgzDEUSFMQgqeil
+KB4XSQwnOIAZVaAMXXa2ECpoGXKKZo9eubiKJR6qXVVt/Js2KHk94nQ53A7esVWJ
+5bvdTtmkctylThVUAjnr33QrJ9kFpX0Koxi6ZMlhR0yYguTdkloPIwGJ0yjN0HoE
+bndKLmiVVASgKQZVlvoPLFZNEFAAFM8ADMdEkmMzBSgSHIuhAgCMAASj4kSgWSMv
+4gJFCChLUCiHoiKKshyGiwRAVEfb7A7ERCk6WZvqRbLZWXeRCyKesHc18UEBgZqA
+kGCNOlgBYaGR/0xbWeuSuYRFO+c7VjzcfXTZK4VXej4+/1q49+2QhgxDd+9vyLfm
+1QO1Ey/Ehun8+9ceCl40Tgw8ltXKzbQ/OpcyTfdlLu6QeyVvzcPLHWXNmjUJTcKd
+PU/v0R43Lz48ZN7/yyVwoPvKrNfacmvdc5nvjATOZhoOxdqJlsEjPlNSluP7lDZP
+j+Wu7lhScaSOSGwpuf6FX96H5yzFzo5ZLr16ejL35njIz2cLPtSbT2wfO3m56nhe
+xv0Nt6NLKuYaU31y/8xw/cBTQ80rK2zlese6rs2J2RHahOqut3ZNP3Pw6J+rev3O
+apfmet6m2Gu/J2+JyhgqurFXujP1ui03y9bwzcyZDrO898tNB+p9fY/O35zq1OXu
+AwmVOk+U9/mxe4VN91LKz9FJ4dme6c8aWIOxiWSe0PWezBkf3Wi+dWx06LRu18gn
+benXJpateEP7k/fBhYbWth/rgk5F9vSPtsc1Cmnath2fV22wLz01HD+WnxoeVHU/
+bnnEDydi62ISV16c9+14PDRkyt53de3gmfnoyTWVtWl5sSNRh9EbTHp0/frG9l+3
+vD/+x2x3RX7WRybDtmZvVLiOf++lmNtdNmD72l9tBPNHNr44UmaxxHxFp/YM928e
+XFVX910y/kHlSHJ2bbTTkz4bevFuRUJn4m7Lzs7g1aVXWzRkyIW0GsvEWG7bg3jL
+UNyTz9ZEWueW4H8B
+=FGK7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sebst
+
+==================================================================
